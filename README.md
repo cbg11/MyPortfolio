@@ -1,8 +1,8 @@
-# Aravinth's Portfolio Website
+# Chala's Portfolio Website
 
-A modern, responsive portfolio website showcasing Aravinth's skills, projects, and professional experience in both Software Development Engineering and Data Science & Machine Learning.
+A modern, responsive portfolio website showcasing Chala's skills, projects, and professional experience.
 
-🔗 [Visit My Portfolio](https://aravinthvr.github.io/portfolio/)
+🔗 [Visit My Portfolio](https://cbg11.github.io/portfolio/)
 
 ---
 
@@ -150,12 +150,13 @@ This website is designed to be hosted on GitHub Pages:
 
 1. Fork this repository
 2. Enable GitHub Pages in your repository settings
-3. The site will be available at `https://aravinthvr.github.io/portfolio`
+3. The site will be available at `https://cbg11.github.io/portfolio`
 
 For local development:
 
 1. Clone the repository
-2. Open `index.html` in your browser
+2. Open cmd or termnal where `index.html` is placed and run this command `npx serve`
+3. Open this url on your browser `http://localhost:3000`
 
 ---
 
@@ -171,6 +172,7 @@ For local development:
 ## Contact Form
 
 The contact form uses Formspree to handle submissions. To configure it for your own use:
+
 1. Sign up for a free Formspree account
 2. Create a new form and get your form endpoint
 3. Replace the action URL in the HTML form
