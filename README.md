@@ -155,14 +155,14 @@ This website is designed to be hosted on GitHub Pages:
 For local development:
 
 1. Clone the repository
-2. Open cmd or termnal where `index.html` is placed and run this command ```
+2. Open cmd or termnal where `index.html` is placed and run this command
+```
    npx serve
-
-````
+```
 3. Open this url on your browser
 ```
 http://localhost:3000
-````
+```
 
 ---
 
@@ -196,3 +196,4 @@ This project is open source and available under the [MIT License](LICENSE).
 - Icons: [Font Awesome](https://fontawesome.com/)
 - Fonts: [Google Fonts](https://fonts.google.com/)
 - Form Handling: [Formspree](https://formspree.io/)
+
