@@ -155,12 +155,12 @@ This website is designed to be hosted on GitHub Pages:
 For local development:
 
 1. Clone the repository
-2. Open cmd or termnal where `index.html` is placed and run this command ```bash
+2. Open cmd or termnal where `index.html` is placed and run this command ```
    npx serve
 
 ````
 3. Open this url on your browser
-```bash
+```
 http://localhost:3000
 ````
 
