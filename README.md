@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing Chala's skills, projects, and professional experience.
 
-🔗 [Visit My Portfolio](https://cbg11.github.io/portfolio/)
+🔗 [Visit My Portfolio](https://cbg11.github.io/MyPortfolio/)
 
 ---
 
@@ -150,13 +150,19 @@ This website is designed to be hosted on GitHub Pages:
 
 1. Fork this repository
 2. Enable GitHub Pages in your repository settings
-3. The site will be available at `https://cbg11.github.io/portfolio`
+3. The site will be available at `https://cbg11.github.io/MyPortfolio`
 
 For local development:
 
 1. Clone the repository
-2. Open cmd or termnal where `index.html` is placed and run this command `npx serve`
-3. Open this url on your browser `http://localhost:3000`
+2. Open cmd or termnal where `index.html` is placed and run this command ```bash
+   npx serve
+
+````
+3. Open this url on your browser
+```bash
+http://localhost:3000
+````
 
 ---
 
